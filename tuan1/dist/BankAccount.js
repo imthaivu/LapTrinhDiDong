@@ -13,10 +13,3 @@ class BankAccount {
         return this.balance;
     }
 }
-function main() {
-    const account = new BankAccount(1000);
-    account.deposit(500);
-    account.withdraw(200);
-    console.log(account.getBalance());
-}
-main();
