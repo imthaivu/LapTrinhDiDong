@@ -1,0 +1,20 @@
+{
+  "name": "laptrinhdidong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imthaivu/LapTrinhDiDong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imthaivu/LapTrinhDiDong/issues"
+  },
+  "homepage": "https://github.com/imthaivu/LapTrinhDiDong#readme"
+}
