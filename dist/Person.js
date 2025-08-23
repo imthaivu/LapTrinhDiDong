@@ -11,8 +11,3 @@ class Person {
     }
 }
 exports.Person = Person;
-function main() {
-    const person = new Person("John Doe", 30);
-    person.displayInfo();
-}
-main();
