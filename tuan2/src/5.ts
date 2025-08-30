@@ -3,5 +3,4 @@ function siTak(time: number): Promise<string> {
     setTimeout(() => resolve("xong"), time);
   });
 }
-
-siTak(1500).then((msg) => console.log(msg));
+siTak(1500).then((msg)=>console.log(msg));
