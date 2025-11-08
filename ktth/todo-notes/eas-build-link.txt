@@ -1,0 +1,14 @@
+EAS Build Preview Link - Câu 11
+
+Link EAS Build Preview:
+[Điền link EAS build preview của bạn vào đây]
+
+Hướng dẫn tạo EAS Build:
+1. Cài đặt EAS CLI: npm install -g eas-cli
+2. Đăng nhập: eas login
+3. Tạo build preview: eas build --platform android --profile preview
+   (hoặc --platform ios cho iOS)
+4. Sau khi build xong, copy link từ output và paste vào dòng trên
+
+Lưu ý: File này cần có link thực tế để nộp bài.
+
