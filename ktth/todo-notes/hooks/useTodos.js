@@ -153,12 +153,6 @@ created_at INTEGER
     [search, loadTodos]
   );
 
-
-
-
-
-  
-
   // Q7: Xoá (DELETE + refresh)
   const deleteTodo = useCallback(
     async (id) => {
